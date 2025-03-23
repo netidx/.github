@@ -1,4 +1,4 @@
-# Welcome to the Netidx org
+# Welcome to the Netidx Org
 
 Netidx is middlware that makes it easy to create secure distributed applications.
 
